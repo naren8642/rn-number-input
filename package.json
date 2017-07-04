@@ -41,6 +41,6 @@
     "tape": "4.5.1"
   },
   "peerDependencies": {
-    "react-native": "^0.0.20"
+    "react-native": "0.20.0"
   }
 }
